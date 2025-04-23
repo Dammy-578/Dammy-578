@@ -32,7 +32,7 @@ Configured Postfix on Linux with TLS for encrypted mail delivery.
 ---
 
 ## 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/dammyogundipe)  
+- [LinkedIn](https://www.linkedin.com/in/dammy-ogundipe-27182b194/)  
 
 ---
 
