@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I’m Dammy Ogundipe
 
 🎓 IT student at Seneca Polytechnic | 🧠 Passionate about Networking, Linux, Cloud & Cybersecurity  
@@ -36,6 +34,6 @@ Configured Postfix on Linux with TLS for encrypted mail delivery.
 
 ---
 
-🌟 *Actively building more — check out my pinned projects below!*
+🌟 *Actively building more — check out my projects below!*
 
 
