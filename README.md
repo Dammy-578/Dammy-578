@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack  
 **Languages & Scripting:** Bash, PowerShell, Python  
 **Operating Systems:** Ubuntu, Fedora, Windows Server  
-**Tools & Platforms:** Postfix, Dovecot, LDAP, Wazuh, Azure, GitHub, nftables  
+**Tools & Platforms:** Postfix, Dovecot, LDAP, Wazuh, Azure, AWS, GitHub, nftables  
 **Networking:** DNS, DHCP, Virtual Networking, SDN (REST APIs)  
 
 ---
