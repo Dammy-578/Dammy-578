@@ -2,7 +2,7 @@
 
 🎓 IT student at Seneca Polytechnic | 🧠 Passionate about Networking, Linux, Cloud & Cybersecurity  
 💻 I enjoy building infrastructure, automating systems, securing environments, and troubleshooting complex challenges.  
-♟️ Outside of tech, I enjoy chess — a game that strengthens the strategic thinking I bring to my work.
+♟️ Outside of tech, I enjoy chess a game that strengthens the strategic thinking I bring to my work.
 
 ---
 
