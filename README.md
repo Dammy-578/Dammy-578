@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dammy</h1>
-<h3 align="center">3rd-Year ITDM Student | Cloud, Linux, Networking & DevOps Projects</h3>
+<h3 align="center">3rd-Year IT Student | Cloud, Linux, Networking & DevOps Projects</h3>
 <p align="center">Deploying infrastructure, managing systems, automating tasks, and securing cloud environments — one lab at a time.</p>
 
 <p align="center">
