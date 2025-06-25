@@ -48,7 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github actions" width="40" height="40"/>
 </p>
 
-🛠️ **Also used:** Wazuh · HAProxy · Keepalived · Postfix · Dovecot · LDAP · Cockpit · Glances · Wireshark · VirtualBox · Vagrant
+🛠️ **Also used:** Wazuh · HAProxy · Keepalived · Postfix · Dovecot · LDAP · Cockpit · Glances · Wireshark · VirtualBox · Vagrant . VMWare
 
 ---
 
