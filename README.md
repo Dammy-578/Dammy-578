@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Azure (AZ-104) · CI/CD · Terraform · Docker · Linux Scripting · Monitoring Tools**
 - 👨‍💻 All of my projects are available at [github.com/Dammy-578](https://github.com/Dammy-578)
 - 📫 How to reach me: **ddammy578@gmail.com**
-- ⚡ Fun fact: **I once set up a Half-Life 2 LAN server just to play with friends — now I build real infrastructure for fun. Also, I'm pretty great at chess... challenge me if you dare ♟️😉**
+- ⚡ Fun fact: **I once set up a Half-Life 2 LAN server just to play with friends — now I build real infrastructure for fun. Also, I'm pretty great at chess**
 
 ---
 
