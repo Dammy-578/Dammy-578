@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dammy</h1>
-<h3 align="center">Future DevOps Engineer | Automating Everything from Cloud to CLI</h3>
+<h3 align="center">3rd-Year ITDM Student | Cloud, Linux, Networking & DevOps Projects</h3>
+<p align="center">Deploying infrastructure, managing systems, automating tasks, and securing cloud environments — one lab at a time.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dammy-578&label=Profile%20views&color=0e75b6&style=flat" alt="dammy-578" />
@@ -45,26 +46,25 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github actions" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" alt="wazuh" width="40" height="40"/>
 </p>
 
-🛠️ **Also used:** Keepalived · HAProxy · LDAP · Postfix · Dovecot · Cockpit · Glances · Wireshark · VirtualBox · Vagrant
+🛠️ **Also used:** Wazuh · HAProxy · Keepalived · Postfix · Dovecot · LDAP · Cockpit · Glances · Wireshark · VirtualBox · Vagrant
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔧 [Personal SysAdmin Dashboard](https://github.com/Dammy-578/personal-sysadmin-dashboard)  
-  Real-time Linux system monitor using Cockpit and Glances.
+- 🔐 [Wazuh SIEM Detection & Response](https://github.com/Dammy-578/SPR530-Wazuh-SIEM-Project)  
+  Built a lightweight SIEM lab using Wazuh v4.5 to detect brute-force attacks with Hydra, trigger active responses, and visualize logs through the Wazuh dashboard.
 
-- 📦 [Secure Email Server Stack](https://github.com/Dammy-578/secure-email-lab)  
-  Postfix + Dovecot + LDAP integration with SSL & secure user login.
+- 📦 [Azure PaaS Resource Deployment](https://github.com/Dammy-578/OPS310-Azure-PaaS-Automation)  
+  Automated deployment of Azure App Services, SQL Databases, and other PaaS resources using the Azure CLI and GitHub Actions in a lab environment.
 
-- 🔐 [Wazuh SIEM Demo](https://github.com/Dammy-578/wazuh-siem-project)  
-  Brute-force attack detection & response using Wazuh and Hydra.
+- 🖥️ [Linux DNS Server Setup](https://github.com/Dammy-578/OPS305-DNS-Server-Setup)  
+  Configured and documented a fully functional DNS server on Linux, supporting internal name resolution and recursive queries with BIND9.
 
-- 📡 [SDN Python Scripting](https://github.com/Dammy-578/sdn-controller-scripts)  
-  Automating Cisco Packet Tracer networks using REST APIs.
+- 📡 [SDN Controller Mock Scripts](https://github.com/Dammy-578/DCN420-SDN-Controller-Mock-Scripts)  
+  Developed Python scripts simulating SDN controller behavior for ticketing, inventory, and network settings using Cisco Packet Tracer’s REST API.
 
 ---
 
