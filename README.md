@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dammy</h1>
+<h1 align="center">Hi 👋, My name is Dammy</h1>
 <h3 align="center">3rd-Year IT Student | Cloud, Linux, Networking & DevOps Projects</h3>
 <p align="center">Deploying infrastructure, managing systems, automating tasks, and securing cloud environments — one lab at a time.</p>
 
@@ -48,7 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github actions" width="40" height="40"/>
 </p>
 
-🛠️ **Also used:** Wazuh · HAProxy · Keepalived · Postfix · Dovecot · LDAP · Cockpit · Glances · Wireshark · VirtualBox · Vagrant  VMWare
+🛠️ **Also used:** Wazuh · HAProxy · Keepalived · Postfix · Dovecot · LDAP · Cockpit · Glances · Wireshark · VirtualBox/Vmware · Vagrant 
 
 ---
 
