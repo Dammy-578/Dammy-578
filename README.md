@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">👋 Hey there, I'm Dammy<br><br>I build, break, and rebuild IT infrastructure — and I love every step of the process.<br><br>I'm a third-year IT student at Seneca Polytechnic, passionate about cloud computing, Linux system administration, and DevOps. From configuring DNS and email servers to scripting SDN controllers and deploying SIEM tools, I enjoy solving real-world problems with hands-on projects.<br><br>Currently preparing for the <b>Microsoft Azure Administrator (AZ-104)</b> certification as I work toward becoming a DevOps engineer.<br><br><b>Fun fact:</b> I once created a custom LAN server just to play Half-Life 2 with my friends — and yes, I’m also a really, really good chess player ♟️</p>
+<p align="left">👋 Hey there, I'm Dammy<br><br>I build, break, and rebuild IT infrastructure — and I love every step of the process.<br><br>I'm a third-year IT student at Seneca Polytechnic, passionate about cloud computing, Linux system administration, and DevOps. From configuring DNS and email servers to scripting SDN controllers and deploying SIEM tools, I enjoy solving real-world problems with hands-on projects.<br><br>Currently preparing for the **Microsoft Azure Administrator (AZ-104)** certification as I work toward becoming a DevOps engineer.<br><br>**Fun fact:** I once created a custom LAN server just to play Half-Life 2 with my friends — and yes, I’m also a really, really good chess player ♟️</p>
 
 ###
 
@@ -36,16 +36,13 @@
   <a href="https://www.linkedin.com/in/dammy-o-27182b194/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:ddammy578@gmail.com" target="_blank">
+  <a href="ddammy578@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<!-- 🎮 Pacman GitHub Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dammy-578/Dammy-578/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dammy-578/Dammy-578/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Dammy-578/Dammy-578/output/pacman-contribution-graph.svg">
-</picture>
+<p align="left"></p>
+
+###
