@@ -1,81 +1,42 @@
-<h1 align="center">Hi 👋, My name is Dammy</h1>
-<h3 align="center">3rd-Year IT Student | Cloud, Linux, Networking & DevOps Projects</h3>
-<p align="center">Deploying infrastructure, managing systems, automating tasks, and securing cloud environments — one lab at a time.</p>
+<h1 align="center">## 🧑‍💻 About Me<br><br>Hi 👋, my name is Dammy — I'm a third-year Honours Bachelor of Information Technology Design and Management student at Seneca Polytechnic.<br><br>I'm passionate about cloud computing, Linux system administration, and DevOps. I’ve worked on hands-on projects like deploying secure DNS and email servers, automating Azure PaaS environments, building a Wazuh-based SIEM for attack detection, and scripting SDN controller logic using Python.<br><br>I enjoy solving real infrastructure problems, learning by building, and documenting everything along the way.<br><br>Outside of tech, I’m also a serious chess player — I believe thinking a few moves ahead helps in both systems design and life ♟️.</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dammy-578&label=Profile%20views&color=0e75b6&style=flat" alt="dammy-578" />
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dammy-578" alt="dammy-578 trophies" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dammy-o-27182b194/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
-
----
-
-- 🔭 I’m currently working on [Personal SysAdmin Dashboard](https://github.com/Dammy-578/personal-sysadmin-dashboard)
-- 🌱 I’m currently learning **Azure (AZ-104) · CI/CD · Terraform · Docker · Linux Scripting · Monitoring Tools**
-- ⚡ Fun fact: **I once set up a Half-Life 2 LAN server just to play with friends — now I build real infrastructure for fun. Also, I'm pretty great at chess**
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dammy-o-27182b194/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  <a href="ddammy578@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</p>
+</div>
 
----
-
-## 🧰 Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github actions" width="40" height="40"/>
-</p>
-
-🛠️ **Also used:** Wazuh · HAProxy · Keepalived · Postfix · Dovecot · LDAP · Cockpit · Glances · Wireshark · VirtualBox/Vmware · Vagrant 
-
----
-
-## 🚀 Featured Projects
-
-- 🔐 [Wazuh SIEM Detection & Response](https://github.com/Dammy-578/SPR530-Wazuh-SIEM-Project)  
-  Built a lightweight SIEM lab using Wazuh v4.5 to detect brute-force attacks with Hydra, trigger active responses, and visualize logs through the Wazuh dashboard.
-
-- 📦 [Azure PaaS Resource Deployment](https://github.com/Dammy-578/OPS310-Azure-PaaS-Automation)  
-  Automated deployment of Azure App Services, SQL Databases, and other PaaS resources using the Azure CLI and GitHub Actions in a lab environment.
-
-- 🖥️ [Linux DNS Server Setup](https://github.com/Dammy-578/OPS305-DNS-Server-Setup)  
-  Configured and documented a fully functional DNS server on Linux, supporting internal name resolution and recursive queries with BIND9.
-
-- 📡 [SDN Controller Mock Scripts](https://github.com/Dammy-578/DCN420-SDN-Controller-Mock-Scripts)  
-  Developed Python scripts simulating SDN controller behavior for ticketing, inventory, and network settings using Cisco Packet Tracer’s REST API.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dammy-578&show_icons=true&locale=en&layout=compact" alt="dammy-578" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dammy-578&show_icons=true&locale=en" alt="dammy-578" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dammy-578" alt="dammy-578" />
-</p>
+###
