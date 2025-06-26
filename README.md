@@ -1,23 +1,23 @@
 <br clear="both">
 
-<h5 align="left">## 🧑‍💻 About Me<br><br>Hi 👋, my name is Dammy — I'm a third-year Honours Bachelor of Information Technology Design and Management student at Seneca Polytechnic.<br><br>I'm passionate about cloud computing, Linux system administration, and DevOps. I’ve worked on hands-on projects like deploying secure DNS and email servers, automating Azure PaaS environments, building a Wazuh-based SIEM for attack detection, and scripting SDN controller logic using Python.<br><br>I enjoy solving real infrastructure problems, learning by building, and documenting everything along the way.<br><br>Outside of tech, I’m also a serious chess player — I believe thinking a few moves ahead helps in both systems design and life ♟️.</h5>
+<p align="left">👋 Hey there, I'm Dammy<br><br>I build, break, and rebuild IT infrastructure — and I love every step of the process.<br><br>I'm a third-year IT student at Seneca Polytechnic, passionate about cloud computing, Linux system administration, and DevOps. From configuring DNS and email servers to scripting SDN controllers and deploying SIEM tools, I enjoy solving real-world problems with hands-on projects.<br><br>Currently preparing for the <b>Microsoft Azure Administrator (AZ-104)</b> certification as I work toward becoming a DevOps engineer.<br><br><b>Fun fact:</b> I once created a custom LAN server just to play Half-Life 2 with my friends — and yes, I’m also a really, really good chess player ♟️</p>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="60" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
