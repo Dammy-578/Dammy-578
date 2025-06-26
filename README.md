@@ -1,4 +1,6 @@
-<h1 align="center">## 🧑‍💻 About Me<br><br>Hi 👋, my name is Dammy — I'm a third-year Honours Bachelor of Information Technology Design and Management student at Seneca Polytechnic.<br><br>I'm passionate about cloud computing, Linux system administration, and DevOps. I’ve worked on hands-on projects like deploying secure DNS and email servers, automating Azure PaaS environments, building a Wazuh-based SIEM for attack detection, and scripting SDN controller logic using Python.<br><br>I enjoy solving real infrastructure problems, learning by building, and documenting everything along the way.<br><br>Outside of tech, I’m also a serious chess player — I believe thinking a few moves ahead helps in both systems design and life ♟️.</h1>
+<br clear="both">
+
+<h5 align="left">## 🧑‍💻 About Me<br><br>Hi 👋, my name is Dammy — I'm a third-year Honours Bachelor of Information Technology Design and Management student at Seneca Polytechnic.<br><br>I'm passionate about cloud computing, Linux system administration, and DevOps. I’ve worked on hands-on projects like deploying secure DNS and email servers, automating Azure PaaS environments, building a Wazuh-based SIEM for attack detection, and scripting SDN controller logic using Python.<br><br>I enjoy solving real infrastructure problems, learning by building, and documenting everything along the way.<br><br>Outside of tech, I’m also a serious chess player — I believe thinking a few moves ahead helps in both systems design and life ♟️.</h5>
 
 ###
 
