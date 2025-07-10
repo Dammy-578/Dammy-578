@@ -1,7 +1,7 @@
 <br clear="both">
 
 <!-- 👋 Intro -->
-<p align="left">👋 Hey there, I'm Dammy<br><br>I build, break, and rebuild IT infrastructure and I love every step of the process.<br><br>I'm a third-year IT student at Seneca Polytechnic, passionate about cloud computing, Linux system administration, and DevOps. From configuring DNS and email servers to scripting SDN controllers and deploying SIEM tools, I enjoy solving real-world problems with hands-on projects.<br><br>Currently preparing for the <b>Microsoft Azure Administrator (AZ-104)</b> certification as I work toward becoming a DevOps engineer.<br><br><b>Fun fact:</b> I love playing chess♟️</p>
+<p align="left">👋 Hey there, I'm Dammy<br><br>I build, break, and rebuild IT infrastructure and I love every step of the process.<br><br>I'm a third-year IT student at Seneca Polytechnic, passionate about cloud computing, Linux system administration, and DevOps. From configuring DNS and email servers to scripting SDN controllers and deploying SIEM tools, I enjoy solving real-world problems with hands-on projects.<br><br>Currently preparing for the <b>Microsoft Azure Administrator (AZ-104)</b> certification as I work toward becoming a DevOps engineer.<br><br><b>Fun fact:</b> I am really, really good at playing chess♟️</p>
 
 ###
 
