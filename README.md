@@ -10,7 +10,7 @@ I build, break, and rebuild IT infrastructure, then write up what I learned. Mos
 - DNS and email servers, and scripting SDN controllers
 - Testing and hardening a local LLM
 
-Currently preparing for the **Microsoft Azure Administrator (AZ-104)** certification. Looking for a Winter 2027 co-op.
+Currently preparing for the **Microsoft Azure Administrator (AZ-104)** certification.
 
 **Fun fact:** I am really, really good at playing chess ♟️
 
